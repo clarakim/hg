@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="stylesheet/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="font-awesome-4.0.3/css/font-awesome.min.css">
+
+	<title>hello garden fluid</title>
+</head>
+
+<body>
+
+<div class=:"container">
+
+	<section id="logo">
+		<img src ="images/logo.png">
+	</section>
+
+	<section class="menu">
+		
+		<ul class="nav-lists">
+			<hr>
+			<li><a href="/">HOME</a></li>
+			<li><a href="/">SHOP</a></li>
+			<li><a href="/">OUR STORY</a></li>
+			<li><a href="/">NEWS</a></li>
+			<li><a href="/">WHAT TO PLANT?</a></li> 
+			<li><a href="/">FAQ'S</a></li>
+			<li><a href="/">CONTACT US</a></li>
+			<li><i class="fa fa-shopping-cart fa-lg"></i></li>
+			<li><input type="text" name="search">
+				
+				</li>
+
+
+		</ul>
+	</section>
+
+	<section id="main-image">
+		<img src="images/slide-image-1.jpg">
+	</section>
+
+	<section id="text-content">
+		<h2 class="heading">WELCOME TO HELLO GARDEN! THE HOME OF POP-UP VEGGIE GARDEN'S FOR CITY DWELLERS
+		</h2>
+		<img id="divider" src="images/divider_small.png">
+		<p class="texts">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+	</section>
+
+	
+
+	<section id="news-and-blog">
+		<hr>
+		<h1>News & Blogs</h1>
+		<hr>
+
+		<ul>
+			<li id="news-one" class="box">
+				<div class="top">
+					<h4>MARCH 05,2014</h4>
+					<h3>Going organic is easier than you think</h3>
+				</div>
+				<img class="image" src="images/go-organic-carrots_grande.jpg">
+				<p>orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. </p>
+			</li>
+
+			<li id="news-two" class="box">
+				<div class="top">
+					<h4>JANUARY 24, 2014</h4>
+					<h3>Mouth-watering green smoothie recipe</h3>
+				</div>
+				<img class="image" src="images/shutterstock_140790565_206f73cc-0cde-49be-9634-956c531c0f30_grande.jpg">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. </p>
+			</li>
+
+			<li id="news-three" class="box">
+				<div class="top">
+					<h4>JANUARY 24, 2014</h4>
+					<h3>Have a very veggie Valentines</h3>
+				</div>
+				<img class="image" src="images/shutterstock_70889617_grande.jpg">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. </p>
+			</li>
+
+			<li id="news-four" class="box">
+				<div class="top">
+				<h4>JANUARY, 2014</h4>
+				<h3>What to plant in the mouth of February</h3></div>
+				<img class="image" src="images/shutterstock_54063214_grande.jpg">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</li>
+
+		</ul>
+
+	</section>
+
+	
+
+	<section id="footer">
+	 <hr>
+
+	 <ul>
+		<li id="contact" class="contact-box">
+		<h5>GET IN TOUCH</h5>
+		<p>Call us (555)-555-5555</p>
+		<a href="/">chris@thisistrue.co</a>
+		</li>
+
+		<div class="verticalLine"></div>
+
+		<li id="follow" class="contact-box">
+			<h5>FOLLOW US OUT THERE</h5>
+				<div class="follow-us">
+					<a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+					<a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+					<a href="#"><i class="fa fa-pinterest fa-2x"></i></a>
+					<a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+				</div>
+		</li>
+
+		<div class="verticalLine"></div>
+
+		<li id="submit" class="contact-box">
+		<h5>NEWSLETTER</h5>
+		<form id="email" action="mailto:someone@example.com" method="post" enctype="text/plain">
+			<input type="text" name="mail" placeholder="Email address">
+			<input type="submit" value="SUBMIT">
+		</form>
+		</li>
+	</ul>
+
+	<hr class="clearfix">
+
+	<div class="pay-icon">
+
+	</div>
+
+	</section>
+
+
+</div>
+
+</body>
+
+
+
+</html>
